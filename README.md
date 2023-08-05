@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ezmond13
-- 👀 I’m interested in learning to be a software developer
+- 👋 Hi, I’m @Ezmond LO
+- 👀 I’m interested in learning to be a blockchain software developer
 - 🌱 I’m currently learning and get familiar on Python
 - 💞️ I’m looking to collaborate on with other of beginner of software developer to learn and growth together !
 - 📫 How to reach me : lokimmimg@gmail.com
